@@ -1,3 +1,3 @@
 # nlp_100
 
-[自然言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)をやります。
+[自然言語処理100本ノック2020](https://nlp100.github.io/ja/)をやります。
